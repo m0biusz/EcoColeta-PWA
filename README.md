@@ -6,7 +6,7 @@
 - João Eduardo Panissa
 
 ## Problema e objetivo
-Dificuldade de consultar dias de coleta, ecopontos e avisos locais e de acompanhar ocorrências de descarte irregular. O PWA proposto facilitará acesso móvel sem instalação obrigatória, consulta por bairro e comunicação de problemas pela comunidade. Público: moradores e responsáveis pela gestão das informações de coleta.
+Dificuldade de consultar dias de coleta, ecopontos e avisos locais e de acompanhar ocorrências de descarte irregular. O PWA proposto facilitará acesso móvel sem instalação obrigatória, consulta por bairro e comunicação de problemas pela comunidade. **Comunidade piloto escolhida: Videira/SC.** Público: moradores e responsáveis autorizados pela gestão das informações de coleta; ainda não há parceria municipal confirmada.
 
 ## Escopo planejado
 - Consultar a próxima coleta por bairro, avisos e pontos de descarte.
@@ -31,7 +31,7 @@ Dificuldade de consultar dias de coleta, ecopontos e avisos locais e de acompanh
 [PDF para entrega](docs/pratica-extensionista-iv/Entrega_1_EcoColeta_PWA.pdf) · [Decisões de infraestrutura](docs/pratica-extensionista-iv/infraestrutura.md) · [Vínculo com o trabalho anterior](docs/pratica-extensionista-iv/escopo-e-rastreabilidade.md).
 
 ## Próximos passos de execução
-1. Confirmar responsáveis comunitários e dados reais de coletas.
+1. Confirmar responsáveis comunitários e dados reais de coletas de Videira/SC.
 2. Criar projeto Supabase e estrutura de tabelas, RLS e buckets; obter URL e chave publicável.
 3. Desenvolver o PWA e verificar uso offline, acessibilidade, permissões e políticas de acesso.
 4. Criar projeto Vercel e conectar o repositório; configurar raiz do projeto web, variáveis e branch de produção.
