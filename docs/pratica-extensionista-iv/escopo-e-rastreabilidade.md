@@ -13,5 +13,3 @@ Esta modelagem usa o estudo de Desenvolvimento Mobile, a apresentação EcoColet
 **PWA:** manifesto para instalação, service worker para cache de consulta pública e interface responsiva. Ocorrências, autenticação e dados novos dependem de internet. Geolocalização e avisos do navegador exigem consentimento e suporte do dispositivo. A solução não deve prometer horários oficiais antes de obter dados de uma fonte responsável.
 
 **Público:** moradores de Videira/SC, comunidade piloto escolhida pelo autor, e administradores autorizados. Dados municipais e eventual parceria comunitária ainda devem ser confirmados; o material anterior não comprova validação com a prefeitura.
-
-**Fonte do escopo:** “Trabalho Desenvolvimento Mobile(1).pdf”, “EcoColeta.pptx” e “Documentação EcoColeta(2).pdf” enviados pelo autor em 25 set. 2026. Nenhuma chave de API ou credencial desses arquivos deve ser publicada neste repositório.
