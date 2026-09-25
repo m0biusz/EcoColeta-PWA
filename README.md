@@ -30,7 +30,7 @@ Dificuldade de consultar dias de coleta, ecopontos e avisos locais e de acompanh
 [PDF para entrega](docs/pratica-extensionista-iv/Entrega_1_EcoColeta_PWA.pdf) · [Decisões de infraestrutura](docs/pratica-extensionista-iv/infraestrutura.md).
 
 ## Próximos passos de execução
-1. Confirmar equipe, responsáveis comunitários e dados reais de coletas.
+1. Confirmar responsáveis comunitários e dados reais de coletas.
 2. Criar projeto Supabase e estrutura de tabelas, RLS e buckets; obter URL e chave publicável.
 3. Desenvolver o PWA e verificar uso offline, acessibilidade, permissões e políticas de acesso.
 4. Criar projeto Vercel e conectar o repositório; configurar raiz do projeto web, variáveis e branch de produção.
