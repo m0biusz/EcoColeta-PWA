@@ -10,9 +10,11 @@
 | AWS/Azure | Mais opções de infraestrutura, configuração e gestão acima da necessidade da primeira versão acadêmica. |
 | Self-host | Exige provisionar servidor, TLS, backups, monitoramento, atualizações e disponibilidade pela equipe. |
 
-**Ativação futura:** criar contas/projetos sob responsabilidade do grupo; provisionar projeto Supabase na região apropriada, tabelas, RLS, políticas de Storage e usuários; importar a pasta do PWA no Vercel, configurar URL e chave publicável no ambiente e testar Preview e Production. Não há conta ou serviço de nuvem verificado como ativo nesta entrega.
+**Situação de ativação:** o usuário GitHub e o repositório do projeto estão ativos. Não há projeto Supabase ou Vercel verificado como ativo nesta entrega. Isso permanece uma pendência do item 5 do enunciado. Criar projeto Supabase na região apropriada, tabelas, RLS e políticas de Storage; criar projeto Vercel conectado ao GitHub quando houver um build PWA; configurar URL e chave publicável no ambiente; testar Preview e Production. Registrar os identificadores dos projetos e a evidência da ativação antes da entrega definitiva, sem divulgar credenciais.
 
 **Fluxo e segurança:** navegador → Vercel para frontend; navegador → Supabase por HTTPS para dados. RLS protege cada tabela exposta. Fotos de ocorrências em bucket privado com política de acesso; nunca publicar chaves privilegiadas. Migrações do banco versionadas e revisadas. Cache offline somente para conteúdo público, com estratégia de atualização definida durante a implementação.
+
+**Escopo técnico:** avisos serão apresentados no aplicativo. Lembretes automáticos fora do navegador requerem serviço de push/agendamento e permissão específica, a definir em etapa posterior. Dados e funcionalidades do protótipo Android não comprovam implantação do PWA. Os endereços de API e credenciais citados em materiais anteriores são exemplos ou pertencem ao projeto Android e não são reutilizados aqui.
 
 ## Referências técnicas (acesso em 25 set. 2026)
 - MDN. Making PWAs installable: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Making_PWAs_installable

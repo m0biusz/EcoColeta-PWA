@@ -12,6 +12,7 @@ Dificuldade de consultar dias de coleta, ecopontos e avisos locais e de acompanh
 - Consultar a próxima coleta por bairro, avisos e pontos de descarte.
 - Visualizar mapa e localização com consentimento.
 - Após autenticação, registrar ocorrência com descrição, localização e foto e acompanhar estado.
+- Acompanhar ocorrências por estado: Enviado, Recebido, Em análise, Em atendimento e Resolvido.
 - Perfis autorizados gerenciam coletas, ecopontos e avisos.
 - Instalação PWA e cache somente de conteúdo público previamente consultado; ações de escrita dependem de rede.
 
@@ -27,7 +28,7 @@ Dificuldade de consultar dias de coleta, ecopontos e avisos locais e de acompanh
 2. [Diagrama de implantação](docs/pratica-extensionista-iv/diagramas/02-implantacao.svg).
 3. [Diagrama DevOps](docs/pratica-extensionista-iv/diagramas/03-devops.svg).
 
-[PDF para entrega](docs/pratica-extensionista-iv/Entrega_1_EcoColeta_PWA.pdf) · [Decisões de infraestrutura](docs/pratica-extensionista-iv/infraestrutura.md).
+[PDF para entrega](docs/pratica-extensionista-iv/Entrega_1_EcoColeta_PWA.pdf) · [Decisões de infraestrutura](docs/pratica-extensionista-iv/infraestrutura.md) · [Vínculo com o trabalho anterior](docs/pratica-extensionista-iv/escopo-e-rastreabilidade.md).
 
 ## Próximos passos de execução
 1. Confirmar responsáveis comunitários e dados reais de coletas.
